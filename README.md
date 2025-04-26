@@ -25,15 +25,6 @@ I love cleaning messy datasets, visualizing complex patterns, and building data-
 
 ---
 
-## 💼 Internship Experience
-**Machine Learning & Data Analytics Intern**  
-*Engineercore – Remote (May 2024 – Jun 2024)*  
-- Cleaned and preprocessed datasets using Pandas and NumPy.
-- Developed and trained machine learning models with Scikit-learn.
-- Created data visualization dashboards using Matplotlib and Seaborn.
-
----
-
 ## 📊 Projects
 ### 📈 Sales Dashboard for Blinkit
 - Built an interactive dashboard to monitor Blinkit’s sales KPIs.
