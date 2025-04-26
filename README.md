@@ -17,43 +17,18 @@ I love cleaning messy datasets, visualizing complex patterns, and building data-
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python, SQL, Pandas, NumPy
+- **Programming:** Python, SQL
 - **Analytics & Visualization:** Excel, Matplotlib, Seaborn, Power BI
-- **Machine Learning:** Scikit-learn, Regression, Classification, Clustering
-- **Backend Development:** Flask
+- **Frameworks:** Numpy, Pandas, Pytorch, Tensorflow, Flask, Scikit-learn
 - **Tools:** Jupyter Notebook, Git, MongoDB, VS Code
 
 ---
 
-## 📊 Projects
-### 📈 Sales Dashboard for Blinkit
-- Built an interactive dashboard to monitor Blinkit’s sales KPIs.
-- Visualized revenue trends, top-performing products, and regional growth.
-- Enabled dynamic filtering and slicing for real-time business decisions.
-> **Tools Used:** Power BI, Excel, SQL
-
-### 📝 Sentiment Analysis on Social Media Data
-- Developed an end-to-end ML pipeline for classifying social media sentiments.
-- Preprocessed text data and engineered features.
-- Achieved **85% accuracy** using Logistic Regression and Random Forest.
-> **Tools Used:** Python, Scikit-learn, Pandas, NLTK, Seaborn
-
-### 🔍 Social Media Analytics with SQL
-- Queried large-scale user activity data to uncover behavior patterns.
-- Structured raw data into reports for Excel dashboards.
-> **Tools Used:** MySQL, Excel
-
----
-
 ## 📬 Contact Me
-- 📧 Email: [Your Email Here]
+- 📧 Email: mohitsaini9093@gmail.com
 - 📞 Phone: +91 88549 65263
-- 💻 GitHub: [GitHub Profile Link Here]
-- 💼 LinkedIn: [LinkedIn Profile Link Here]
+- 💻 GitHub: https://github.com/MohitSaini9093
+- 💼 LinkedIn: https://www.linkedin.com/in/mohitsaini9093
 
 ---
-
-## 📈 GitHub Stats
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
