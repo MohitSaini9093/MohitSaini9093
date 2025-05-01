@@ -20,7 +20,7 @@ I love cleaning messy datasets, visualizing complex patterns, and building data-
 - **Programming:** Python, SQL
 - **Analytics & Visualization:** Excel, Matplotlib, Seaborn, Power BI
 - **Frameworks:** Numpy, Pandas, Pytorch, Tensorflow, Flask, Scikit-learn
-- **Tools:** Jupyter Notebook, Git, MongoDB, VS Code
+- **Tools:** Jupyter Notebook, Git, MongoDB, VS Code, MySql
 
 ---
 
